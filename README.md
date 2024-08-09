@@ -11,3 +11,6 @@ git clone https://github.com/UraraChiya/GregTech-Leisure-Client
 cd launcherpath/instances/GregTech-Leisure-Client
 git pull https://github.com/UraraChiya/GregTech-Leisure-Client
 ```
+
+# Need Server?
+See https://github.com/UraraChiya/GregTech-Leisure-Server
