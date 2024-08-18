@@ -5,8 +5,9 @@
 cd launcherpath/instances
 git clone https://github.com/UraraChiya/GregTech-Leisure-Client
 ```
+Restart the Launcher and start the game!
 
-## Update
+## Update:
 ```
 cd launcherpath/instances/GregTech-Leisure-Client
 git pull https://github.com/UraraChiya/GregTech-Leisure-Client
