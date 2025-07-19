@@ -1,0 +1,16 @@
+filename = 'inventoryessentials-forge-1.20.1-8.2.8.jar'
+name = 'Inventory Essentials'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8c9cbcae6983a4a8c574b8f3985e81dc0783b6af4822ca1cb958f64a81f8e3c91a45209f4ca342f7c7e575841250472d127de0c1414ae2581c8770f4cb930bb2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Boon8xwi/versions/cTEq5KLy/inventoryessentials-forge-1.20.1-8.2.8.jar'
+
+[update.modrinth]
+mod-id = 'Boon8xwi'
+version = 'cTEq5KLy'
