@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = 'edf5227685dd896b46290e6b8e76b2920e590ca9'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '5985a591f3c77c84c0b948d7d9e30356c168bbed40c657746af8b46486578eba8a40587bb8bb891487704dab7a872be8c05cf41392c42f786172127a44a5433f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/por2AZc5/versions/JSBOxI07/SkyblockBuilder-1.20.1-5.1.24.jar'
 
-[update.curseforge]
-file-id = 5813827
-project-id = 446691
+[update.modrinth]
+mod-id = 'por2AZc5'
+version = 'JSBOxI07'

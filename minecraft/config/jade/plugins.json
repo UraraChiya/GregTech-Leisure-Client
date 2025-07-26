@@ -97,9 +97,6 @@
     "tick_time_provider": true,
     "wireless_data_hatch_provider": true
   },
-  "balm": {
-    "jade": true
-  },
   "ae2": {
     "part_icon": true,
     "charger": true,
